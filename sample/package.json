@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "nconf": "^0.10.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
